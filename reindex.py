@@ -1,11 +1,23 @@
 import json
 
-filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"  # 目标文件
-# filename = "ObjectiveProblems/2010-2025_Chemistry_MCQs.json"  # 目标文件
-# filename = "ObjectiveProblems/2010-2025_Biology_MCQs.json"  # 目标文件
-# filename = "ObjectiveProblems/2010-2025_Political_Science_MCQs.json"  # 目标文件
-# filename = "ObjectiveProblems/2010-2025_History_MCQs.json"  # 目标文件
-# filename = "ObjectiveProblems/2010-2025_Geography_MCQs.json"  # 目标文件
+# 科目分类
+filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_Chemistry_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_Biology_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_Political_Science_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_History_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_Geography_MCQs.json"  
+
+# 领域分类
+# filename = "Fields\MathematicalReasoning.json"  
+# filename = "Fields\LogicalReasoning.json"  
+# filename = "Fields\Lang_Comp_and_Produc.json"  
+# filename = "Fields\Scientific_Inquiry.json"  
+# filename = "Fields\Sociocultural_Understanding.json"  
+# filename = "Fields\Data_and_StatisticalLiteracy.json"  
+# filename = "Fields\Commonsense_and_WorldKnowledge.json"  
+# filename = "Fields\Creative_and_Open-ended_Questions.json"  
+
 # 1. 读取原文件
 with open(filename, "r", encoding="utf-8") as f:
     data = json.load(f)
