@@ -7,8 +7,7 @@
             "answer": ["C"],
             "analysis": "【详解】根据匀变速直线运动的速度公式：\n\n$$\nv = v_0 + at\n$$\n\n其中：\n- $v_0 = 12\\,\\mathrm{m/s}$（初速度）\n- $v = 0\\,\\mathrm{m/s}$（末速度）\n- $t = 2\\,\\mathrm{s}$（时间）\n\n代入得：\n\n$$\n0 = 12 + a \\times 2\n$$\n\n解得：\n\n$$\na = -6\\,\\mathrm{m/s^2}\n$$\n\n负号表示加速度方向与运动方向相反，题目问的是加速度的大小，因此取绝对值，即 $6\\,\\mathrm{m/s^2}$。\n\n故选 C。",
             "index": 1,
-            "score": 4,
-            "field":"scientific_inquiry"
+            "score": 4
         },
         {
 

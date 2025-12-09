@@ -4,7 +4,6 @@
         {
             "year": "2010",
             "category": "（全国卷ⅱ）",
-            "field": "scientific_inquiry",
             "question": "1. （6 分) 原子核 $\\mathrm{z}^{\\mathrm{A}} \\mathrm{X}$ 与㲴核 ${ }_{1}{ }^{2} \\mathrm{H}$ 反应生成一个 $\\alpha$ 粒子和一个质子. 由此可知（\nA. $A=2, Z=1$\nB. $\\mathrm{A}=2, \\mathrm{Z}=2$\nC. $\\mathrm{A}=3, \\mathrm{Z}=3$\nD. $\\mathrm{A}=3, \\mathrm{Z}=2$\n",
             "answer": [
                 "D"
@@ -16,7 +15,6 @@
         {
             "year": "2010",
             "category": "（全国卷ⅱ）",
-            "field": "scientific_inquiry",
             "question": "4. (6 分) 在雷雨云下沿坚直方向的电场强度为 $10^{4} \\mathrm{~V} / \\mathrm{m}$, 已知一半径为 $1 \\mathrm{~mm}$ 的雨滴在此电场中不会下落, 取重力加速度大小为 $10 \\mathrm{~m} / \\mathrm{s}^{2}$, 水的密度为 $10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$. 这雨滴携带的电荷量的最小值约为（ ）\nA. $2 \\times 10^{-9} \\mathrm{C}$\nB. $4 \\times 10^{-9} \\mathrm{C}$\nC. $6 \\times 10^{-9} \\mathrm{C}$\nD. $8 \\times 10^{-9} \\mathrm{C}$\n",
             "answer": [
                 "B"
@@ -28,7 +26,6 @@
         {
             "year": "2010",
             "category": "（全国卷ⅱ）",
-            "field": "scientific_inquiry",
             "question": "8. （6 分) 已知地球同步卫星离地面的高度约为地球半径的 6 倍. 若某行星的 平均密度为地球平均密度的一半, 它的同步卫星距其表面的高度是其半径的 2.5 倍, 则该行星的自转周期约为（ $)$\nA. 6 小时\nB. 12 小时\nC. 24 小时\nD. 36 小时\n",
             "answer": [
                 "B"
@@ -40,7 +37,6 @@
         {
             "year": "2010",
             "category": "（新课标ⅰ）",
-            "field": "scientific_inquiry",
             "question": "1. (6 分) 在电磁学发展过程中, 许多科学家做出了贡献. 下列说法正确的是（ )\nA. 奥斯特发现了电流磁效应; 法拉第发现了电磁感应现象\nB. 麦克斯韦预言了电磁波; 楞次用实验证实了电磁波的存在\nC. 库仑发现了点电荷的相互作用规律: 密立根通过油滴实验测定了元电荷的 数值\n\nD. 安培发现了磁场对运动电荷的作用规律: 洛仑兹发现了磁场对电流的作用 规律\n",
             "answer": [
                 "AC"
@@ -52,7 +48,6 @@
         {
             "year": "2010",
             "category": "（新课标ⅰ）",
-            "field": "scientific_inquiry",
             "question": "2. (6 分) 一根轻质弹簧一端固定, 用大小为 $\\mathrm{F}_{1}$ 的力压弹簧的另一端, 平衡时 长度为 $1_{1}$; 改用大小为 $F_{2}$ 的力拉弹簧, 平衡时长度为 $l_{2}$. 弹簧的拉伸或压缩 均在弹性限度内, 该弹簧的劲度系数为（）\nA. $\\frac{\\mathrm{F}_{2}-\\mathrm{F}_{1}}{l_{2}-l_{1}}$\nB. $\\frac{\\mathrm{F}_{2}+\\mathrm{F}_{1}}{l_{2}+l_{1}}$\nC. $\\frac{\\mathrm{F}_{2}+\\mathrm{F}_{1}}{\\mathrm{l}_{2}-l_{1}}$\nD. $\\frac{\\mathrm{F}_{2}-\\mathrm{F}_{1}}{l_{2}+l_{1}}$\n",
             "answer": [
                 "C"
@@ -64,7 +59,6 @@
         {
             "year": "2011",
             "category": "（新课标）",
-            "field": "scientific_inquiry",
             "question": "2. （6 分）质点开始时做匀速直线运动, 从某时刻起受到一恒力作用. 此后, 该质点的动能可能 ( $)$\nA. 一直增大\nB. 先逐渐减小至零, 再逐渐增大\nC. 先逐渐增大至某一最大值，再逐渐减小\nD. 先逐渐减小至某一非零的最小值, 再逐渐增大\n",
             "answer": [
                 "ABD"
@@ -76,7 +70,6 @@
         {
             "year": "2011",
             "category": "（新课标）",
-            "field": "scientific_inquiry",
             "question": "3. （6 分) 一蹦极运动员身系弹性蹦极绳从水面上方的高台下落, 到最低点时 距水面还有数米距离. 假定空气阻力可忽略, 运动员可视为质点, 下列说法 正确的是 $(\\quad)$\nA. 运动员到达最低点前重力势能始终减小\nB. 蹦极绳张紧后的下落过程中, 弹性力做负功, 弹性势能增加\nC. 蹦极过程中, 运动员、地球和蹦极绳所组成的系统机械能守恒\nD. 蹦极过程中, 重力势能的改变与重力势能零点的选取有关\n",
             "answer": [
                 "ABC"
@@ -88,7 +81,6 @@
         {
             "year": "2011",
             "category": "（新课标）",
-            "field": "scientific_inquiry",
             "question": "6. (6 分) 卫星电话信号需要通过地球卫星传送. 如果你与同学在地面上用卫 星电话通话, 则从你发出信号至对方接收到信号所需要最短时间最接近于（ 可能用到的数据: 月球绕地球运动的轨道半径为 $3.8 \\times 10^{5} \\mathrm{~km}$, 运动周期约为 27 天, 地球半径约为 $6400 \\mathrm{~km}$, 无线电信号的传播速度为 $3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s} （ ）$\nA. $0.1 \\mathrm{~s}$\nB. $0.25 \\mathrm{~s}$\nC. $0.5 \\mathrm{~s}$\nD. $1 \\mathrm{~s}$\n",
             "answer": [
                 "B"
@@ -100,7 +92,6 @@
         {
             "year": "2012",
             "category": "（新课标）",
-            "field": "scientific_inquiry",
             "question": "1. (3 分) 伽利略根据小球在斜面上运动的实验和理想实验, 提出了惯性的概 念, 从而奠定了牛顿力学的基础. 早期物理学家关于惯性有下列说法, 其中 正确的是（）\nA. 物体抵抗运动状态变化的性质是惯性\nB. 没有力作用, 物体只能处于静止状态\nC. 行星在圆周轨道上保持匀速率运动的性质是惯性\nD. 运动物体如果没有受到力的作用, 将继续以同一速度沿同一直线运动\n",
             "answer": [
                 "AD"
@@ -112,7 +103,6 @@
         {
             "year": "2012",
             "category": "（新课标）",
-            "field": "scientific_inquiry",
             "question": "8. (3 分) 假设地球是一半径为 $R$ 、质量分布均匀的球体。一矿井深度为 $d$ 。已 知质量分布均匀的球壳对壳内物体的引力为零。矿井底部和地面处的重力加 速度大小之比为 $(\\quad)$\nA. $1-\\frac{d}{R}$\nB. $1+\\frac{d}{R}$\nC. $\\left(\\frac{\\mathrm{R}-\\mathrm{d}}{\\mathrm{R}}\\right)^{2}$\nD. $\\left(\\frac{\\mathrm{R}}{\\mathrm{R}-\\mathrm{d}}\\right)^{2}$\n",
             "answer": [
                 "A"
@@ -124,7 +114,6 @@
         {
             "year": "2013",
             "category": "（新课标ⅰ）",
-            "field": "scientific_inquiry",
             "question": "7. （6 分） 2012 年 6 月 18 日, 神州九号飞船与天宫一号目标飞行器在离地面 $343 \\mathrm{~km}$ 的近圆形轨道上成功进行了我国首次载人空间交会对接. 对接轨道所 处的空间存在极其稀薄的大气, 下面说法正确的是（ ）\n\nA. 为实现对接, 两者运行速度的大小都应介于第一宇宙速度和第二宇宙速度 之间\n\nB. 如不加干预, 在运行一段时间后, 天宫一号的动能可能会增加\n\nC. 如不加干预, 天宫一号的轨道高度将缓慢降低\n\nD. 航天员在天宫一号中处于失重状态, 说明航天员不受地球引力作用\n",
             "answer": [
                 "BC"
@@ -136,7 +125,6 @@
         {
             "year": "2013",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "6. （6 分）在物理学发展过程中, 观测、实验、假说和逻辑推理等方法都起到 了重要作用。下列叙述符合史实的是（）\n\nA. 奥斯特在实验中观察到电流的磁效应, 该效应解释了电和磁之间存在联系\n\nB. 安培根据通电螺线管的磁场和条形磁铁的磁场的相似性, 提出了分子电流 假说\n\nC. 法拉第在实验中观察到, 在通有恒定电流的静止导线附近的固定导线圈中 ，会出现感应电流\n\nD. 楞次在分析了许多实验事实后提出, 感应电流应具有这样的方向, 即感应 电流的磁场总要阻碍引起感应电流的磁通量的变化\n",
             "answer": [
                 "ABD"
@@ -148,7 +136,6 @@
         {
             "year": "2013",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "7. （6 分) 目前, 在地球周围有许多人造地球卫星绕着它运转, 其中一些卫星 的轨道可近似为圆, 且轨道半径逐渐变小。若卫星在轨道半径逐渐变小的过 程中, 只受到地球引力和稀薄气体阻力的作用, 则下列判断正确的是（ )\nA. 卫星的动能逐渐减小\nB. 由于地球引力做正功, 引力势能一定减小\nC. 由于气体阻力做负功, 地球引力做正功, 机械能保持不变\nD. 卫星克服气体阻力做的功小于引力势能的减小量\n",
             "answer": [
                 "BD"
@@ -160,7 +147,6 @@
         {
             "year": "2013",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "8. (6 分) 公路急转弯处通常是交通事故多发地带. 某公路急转弯处是一圆弧, 当汽车行驶的速率为 $v_{c}$ 时, 汽车恰好没有向公路内外两侧滑动的趋势, 则在 该弯道处，（）\nA. 路面外侧高内侧低\nB. 车速只要低于 $v_{c}$ ， 车辆便会向内侧滑动\nC. 车速虽然高于 $v_{c}$, 但只要不超出某一高度限度, 车辆便不会向外侧滑动\nD. 当路面结冰时, 与末结冰时相比, $v_{c}$ 的值变小\n",
             "answer": [
                 "AC"
@@ -172,7 +158,6 @@
         {
             "year": "2014",
             "category": "（新课标ⅰ）",
-            "field": "scientific_inquiry",
             "question": "1. （6 分) 在法拉第时代, 下列验证“由磁产生电”设想的实验中, 能观察到感 应电流的是（ $)$\nA. 将绕在磁铁上的线圈与电流表组成一闭合回路, 然后观察电流表的变化\nB. 在一通电线圈旁放置一连有电流表的闭合线圈, 然后观察电流表的变化\nC. 将一房间内的线圈两端与相邻房间的电流表连接, 往线圈中揷入条形磁铁 后, 再到相邻房间去观察电流表的变化\n\nD. 绕在同一铁环上的两个线圈, 分别接电源和电流表, 在给线圈通电或断电 的瞬间，观察电流表的变化\n",
             "answer": [
                 "D"
@@ -184,7 +169,6 @@
         {
             "year": "2014",
             "category": "（新课标ⅰ）",
-            "field": "scientific_inquiry",
             "question": "2. （6 分) 关于通电直导线在匀强磁场中所受的安培力, 下列说法正确的是（\nA. 安培力的方向可以不垂直于直导线\nB. 安培力的方向总是垂直于磁场的方向\nC. 安培力的大小与通电导线和磁场方向的夹角无关\nD. 将直导线从中折成直角, 安培力的大小一定变为原来的一半\n",
             "answer": [
                 "B"
@@ -196,7 +180,6 @@
         {
             "year": "2014",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "2. (6 分) 取水平地面为重力势能零点, 一物块从某一高度水平抛出, 在抛出 点其动能与重力势能恰好相等. 不计空气阻力, 该物块落地时的速度方向与 水平方向的夹角为 $(\\quad)$\nA. $\\frac{\\pi}{6}$\nB. $\\frac{\\pi}{4}$\nC. $\\frac{\\pi}{3}$\nD. $\\frac{5 \\pi}{12}$\n",
             "answer": [
                 "B"
@@ -208,7 +191,6 @@
         {
             "year": "2014",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "3. (6 分) 一物体静止在粗䊁水平地面上, 现用一大小为 $\\mathrm{F}_{1}$ 的水平拉力拉动物 体, 经过一段时间后其速度为 $\\mathrm{v}$, 若将水平拉力的大小改为 $F_{2}$, 物体从静止开 始经过同样的时间后速度变为 $2 \\mathrm{v}$, 对于上述两个过程, 用 $W_{F 1} 、 W_{F 2}$ 分别表示 拉力 $F_{1} 、 F_{2}$ 所做的功, $W_{f 1} 、 W_{f 2}$ 分别表示前两次克服摩擦力所做的功, 则 ( $)$\nA. $\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}>2 \\mathrm{~W}_{\\mathrm{f} 1}$\nB. $\\mathrm{W}_{\\mathrm{F} 2}>4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$\nC. $\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}=2 \\mathrm{~W}_{\\mathrm{f} 1}$\nD. $\\mathrm{W}_{\\mathrm{F} 2}<4 \\mathrm{~W}_{\\mathrm{F} 1}, \\mathrm{~W}_{\\mathrm{f} 2}<2 \\mathrm{~W}_{\\mathrm{f} 1}$\n",
             "answer": [
                 "C"
@@ -220,7 +202,6 @@
         {
             "year": "2014",
             "category": "（新课标ⅱ）",
-            "field": "scientific_inquiry",
             "question": "5. (6 分) 假设地球可视为质量均匀分布的球体, 已知地球表面重力加速度在 两极的大小为 $g_{0}$, 赤道的大小为 $g$; 地球自转的周期为 $\\mathrm{T}$, 引力常量为 $G$. 则 地球的密度为 ( $)$\nA. $\\frac{3 \\pi g_{0}-g}{G T^{2} g_{0}}$\nB. $\\frac{3 \\pi g_{0}}{G T^{2} g_{0}-g}$\nC. $\\frac{3 \\pi}{\\mathrm{GT}^{2}}$\nD. $\\frac{3 \\pi g_{0}}{G T^{2} g}$\n",
             "answer": [
                 "B"
@@ -238,8 +219,7 @@
             ],
             "analysis": "解: A、电场线与等势面垂直, 而电场强度的方向为电场线的方向, 所 以电场强度的方向与等势面垂直, 故 $\\mathrm{A}$ 正确;\n\nB、电场强度与电势没有直接关系, 电场强度为零时, 电势不一定为零; 电势为 零, 电场强度不一定为零, 故 $\\mathrm{B}$ 错误;\n\nC、根据沿着电场线的方向, 电势逐渐降低, 与电场强度的大小无关, 故 C 错误\n\nD、顺着电场线方向电势降低, 故 D 正确。\n\n故选: AD。\n",
             "index": 19,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2015",
@@ -250,8 +230,7 @@
             ],
             "analysis": "解: 带电粒子在匀强磁场中做匀速圆周运动,\n\n根据洛伦兹力提供向心力: $\\mathrm{qvB}=\\mathrm{m} \\frac{\\mathrm{v}^{2}}{\\mathrm{R}}$\n\n可得: $R=\\frac{\\Pi V}{q B}$\n\n从较强磁场区域进入到较弱磁场区域后， $B$ 减小，所以 $R$ 增大。\n\n线速度、角速度的关系为: $v=\\omega R$\n\n因为洛伦兹力不做功, 故线速度 $\\mathrm{v}$ 的大小不变, 半径 $\\mathrm{R}$ 增大, 所以角速度减小, 故 B 正确, ACD 错误。\n\n故选: B。\n",
             "index": 20,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2015",
@@ -262,8 +241,7 @@
             ],
             "analysis": "解: A、根据万有引力等于重力 $\\frac{G M m}{R^{2}}=m \\mathrm{~m}$,\n\n$g=\\frac{G M}{R^{2}}$\n\n地球质量约为月球的 81 倍, 地球半径约为月球的 3.7 倍, 地球表面的重力加速\n\n度大小约为 $9.8 \\mathrm{~m} / \\mathrm{s}^{2}$,\n\n所以月球表面的重力加速度大小约为 $\\mathrm{g}^{\\prime}=1.66 \\mathrm{~m} / \\mathrm{s}^{2}$,\n\n根据运动学公式得在着陆前的瞬间, 速度大小约 $v=\\sqrt{2 g^{\\prime} ~} \\mathrm{~h}=3.6 \\mathrm{~m} / \\mathrm{s}$, 故 $A$ 错误;\n\nB、登月探测器悬停时, 二力平衡,\n\n$\\mathrm{F}=\\mathrm{mg}^{\\prime}=1.3 \\times 10^{3} \\times 1.66 \\approx 2 \\times 10^{3} \\mathrm{~N}$, 故 B 正确;\n\nC、从离开近月圆轨道到着陆这段时间, 由于受到了反冲作用力, 且反冲作用力 对探测器做负功, 探测器机械能减小, 选项 C 错误\n\n$D$ 、根据 $v=\\sqrt{\\frac{G M}{r}}$, 地球质量约为月球的 81 倍, 地球半径约为月球的 3.7 倍,\n\n所以在近月圆轨道上运行的线速度小于人造卫星在近地圆轨道上运行的线速度，\n\n故 D 正确;\n\n故选: BD。\n",
             "index": 21,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2015",
@@ -274,8 +252,7 @@
             ],
             "analysis": "解: A、不存在单独的磁单极子, 指南针也不例外, 故 A 错误;\n\nB、指南针能够指向南北, 说明地球具有磁场, 地磁场是南北指向的, 故 B 正确\n\nC、指南针的指向会受到附近铁块的干扰, 是由于铁块被磁化后干扰了附近的地 磁场, 故 C 正确;\n\nD、在指南针正上方附近沿指针方向放置一直导线, 根据安培定则, 电流的磁场 在指南针位置是东西方向的, 故导线通电时指南针偏转 $90^{\\circ}$, 故 D 错误;\n\n故选：BC。\n",
             "index": 22,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2015",
@@ -286,8 +263,7 @@
             ],
             "analysis": "解: 设 $P Q$ 两边的车厢数为 $P$ 和 $Q$, 当机车在东边拉时, 根据牛顿第二定律可得, $F=P m \\bullet a$,\n\n当机车在西边拉时, 根据牛顿第二定律可得, $\\mathrm{F}=\\mathrm{Qm} \\cdot \\frac{2}{3} \\mathrm{a}$,\n\n根据以上两式可得, $\\frac{P}{Q}=\\frac{2}{3}$,\n\n即两边的车厢的数目可能是 2 和 3 , 或 4 和 6 , 或 6 和 9 , 或 8 和 12 , 等等,\n\n所以总的车厢的数目可能是 5、10、15、20，\n\n所以可能的是 $B C$ 。\n\n故选: $B C$ 。\n",
             "index": 23,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -298,8 +274,7 @@
             ],
             "analysis": "解：电容器接在恒压直流电源上, 则电容器两端的电势差不变。\n\n将云母介质移出后, 介电常数减小, 根据电容的决定式 $C=\\frac{\\varepsilon S}{4 \\pi \\mathrm{kd}}$ 知, 介电常数 减小, 电容减小。\n\n由于电压不变, 根据 $\\mathrm{C}=\\frac{Q}{\\mathrm{U}}$ 可知, 电荷量 $\\mathrm{Q}$ 减小。\n\n由于电容器的电压不变, 板间的距离 $\\mathrm{d}$ 不变, 根据 $\\mathrm{E}=\\frac{\\mathrm{U}}{\\mathrm{d}}$ 可知, 极板间的电场强度 不变。\n\n所以 $A B C$ 错误, $D$ 正确;\n\n故选: D。\n",
             "index": 24,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -310,8 +285,7 @@
             ],
             "analysis": "解: A. 质点开始做匀速直线运动, 现对其施加一恒力, 其合力不为零, 如果所加恒力与原来的运动方向在一条直线上, 质点做匀加速或匀减速直线 运动, 质点速度的方向与该恒力的方向相同或相反; 如果所加恒力与原来的 运动方向不在一条直线上, 物体做曲线运动, 速度方向沿切线方向, 力和运 动方向之间有大角，故 $\\mathrm{A}$ 错误;\n\nB. 由 $\\mathrm{A}$ 分析可知, 质点速度的方向不可能总是与该恒力的方向垂直, 故 $\\mathrm{B}$ 正确\n\nC. 由于质点做匀速直线运动, 即所受合外力为 0 , 原来质点上的力不变, 增加 一个恒力后, 则质点所受的合力就是这个恒力, 所以加速度方向与该恒力方 向相同, 故 C 正确;\n\nD. 因为合外力恒定, 加速度恒定, 由 $\\triangle v=a \\Delta t$ 可知, 质点单位时间内速度的变 化量总是不变, 但是, 如果质点做匀变速曲线运动, 则单位时间内速度的变 化量是不变的, 而速率的变化量却是变化的, 故 D 错误。\n\n故选: BC。\n",
             "index": 25,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -322,8 +296,7 @@
             ],
             "analysis": "解: 设小球的密度为 $\\rho$, 半径为 $r$, 则小球的质量为: $m=\\rho v=\\rho \\cdot \\frac{4}{3} \\pi r^{3}$ 重力: $\\mathrm{G}=\\mathrm{mg}=\\frac{4}{3} \\pi g \\rho \\mathrm{r}^{3}$\n\n小球的加速度: $a=\\frac{G-f}{m}=g \\frac{k r}{\\rho \\cdot \\frac{4}{3} \\pi r^{3}}=g \\frac{3 k}{4 \\pi \\rho r^{2}}$ 可知, 小球的质量越大, 半径越大, 则下降的加速度越大。所以甲的加速度比较 大。\n\nA、两个小球下降的距离是相等的, 根据: $x=\\frac{1}{2} a t^{2}$ 可知, 加速度比较大的甲运 动的时间短。故 $A$ 错误;\n\nB、根据: $2 a x=\\mathrm{v}^{2}-\\mathrm{v}_{0}^{2}$ 可知, 加速度比较大的甲球末速度的大小大于乙球末速度 的大小。故 B 正确;\n\nC、小球的质量越大, 半径越大, 则下降的加速度越大。所以甲的加速度比较大。 故 C 错误;\n\nD、由题可知, 它们运动时受到的阻力与球的半径成正比, 即: $f=k r$, 所以甲的 阻力大, 根据 $\\mathrm{W}=\\mathrm{FS}$ 可知, 甲球克服阻力做的功大于乙球克服阻力做的功。 故 D 正确。\n\n故选：BD。\n",
             "index": 26,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -334,8 +307,7 @@
             ],
             "analysis": "【解答】解：开普勒在他的导师第谷天文观测数据的基础上, 总结出了行星运动 的规律, 但并末找出了行星按照这些规律运动的原因; 牛顿在开普勒行星运 动定律的基础上推导出万有引力定律, 故 $A C D$ 错误, $B$ 正确。\n\n故选: B。\n",
             "index": 27,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -346,8 +318,7 @@
             ],
             "analysis": "【解答】解: A、沿电场线的方向电势降低, 所以电势不同的等势面不可能相交。 故 $\\mathrm{A}$ 错误;\n\nB、根据电场线与等势面的关系可知, 电场线与等势面互相垂直，故 B 正确;\n\nC、电场强度的大小与电势的高低没有关系, 所以同一等势面上各点电场强度不 一定相等，故 C 错误;\n\nD、负电荷在电势高的位置的电势能小, 所以将一负的试探电荷从电势较高的等 势面移至电势较低的等势面, 电势能增大, 电场力做负功, 故 D 错误。\n\n故选: B。\n",
             "index": 28,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2016",
@@ -358,8 +329,7 @@
             ],
             "analysis": "【解答】解：设质点的初速度为 $\\mathrm{v}$, 则动能 $\\mathrm{E}_{\\mathrm{k} 1}=\\frac{1}{2} \\mathrm{mv}^{2}$, 由于末动能变为原来的 9 倍, 则可知, 末速度为原来的 3 倍, 故 $v^{\\prime}=3 \\mathrm{v}$;\n\n故平均速度 $\\bar{v}=\\frac{v+3 v}{2}=2 v$;\n\n根据位移公式可知: $\\bar{v}=\\frac{s}{t}$\n\n联立解得： $v=\\frac{s}{2 t}$;\n\n根据加速度定义可知 $a=\\frac{\\Delta v}{t}=\\frac{3 v-v}{t}=\\frac{2 \\times \\frac{s}{2 t}}{t}=\\frac{s}{t^{2}}$, 故 $B$ 正确, ACD 错误。\n\n故选: B。\n",
             "index": 29,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -370,8 +340,7 @@
             ],
             "analysis": "解: 开始总动量为零, 规定气体喷出的方向为正方向, 根据动量守恒定 律得， $0=m_{1} v_{1}+P$,\n\n解得火箭的动量 $P=-\\mathrm{m}_{1} \\mathrm{v}_{1}=-0.05 \\times 600 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}=-30 \\mathrm{~kg} \\cdot \\mathrm{m} / \\mathrm{s}$, 负号表示方向, 故 A 正确, B、C、D 错误。\n\n故选: A。\n",
             "index": 30,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -382,8 +351,7 @@
             ],
             "analysis": "解: 发球机发出的球, 速度较大的球越过球网, 速度度较小的球没有越 过球网, 原因是发球机到网的水平距离一定, 速度大, 则所用的时间较少, 球下降的高度较小, 容易越过球网, 故 C 正确, ABD 错误。\n\n故选: C。\n",
             "index": 31,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -394,8 +362,7 @@
             ],
             "analysis": "解: 微粒受重力 $\\mathrm{G}$ 、电场力 $\\mathrm{F} 、$ 洛伦兹力 $\\mathrm{F}^{\\prime}$ 的作用, 三个带正电的微粒 $\\mathrm{a}$ ， $b, c$ 电荷量相等, 那么微粒所受电场力 $F$ 大小相等, 方向坚直向上;\n\n$a$ 在纸面内做匀速圆周运动, 则 $a$ 的重力等于电场力, 即 $F=G_{a}=m_{a} g$;\n\n$\\mathrm{b}$ 在纸面内向右做匀速直线运动, 则 $\\mathrm{b}$ 受力平衡, 因为重力方向坚直向下, 洛伦 兹力方向坚直向上, 则有 $F+F^{\\prime}{ }_{b}=G_{b}=m_{b} g$;\n\n$\\mathrm{c}$ 在纸面内向左做匀速直线运动, 则 $\\mathrm{c}$ 受力平衡, 且洛伦兹力方向向下, 则有:\n\n$\\mathrm{F}-\\mathrm{F}_{\\mathrm{c}}{ }_{\\mathrm{O}}=\\mathrm{G}_{\\mathrm{c}}=\\mathrm{m}_{\\mathrm{c}} \\mathrm{g}$\n\n所以, $m_{b}>m_{a}>m_{c}$, 故 ACD 错误, B 正确;\n\n故选: B。\n",
             "index": 32,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -406,8 +373,7 @@
             ],
             "analysis": "解：因氞核聚变的核反应方程为: ${ }_{1}^{2} \\mathrm{H}+{ }_{1}^{2} \\mathrm{H} \\rightarrow{ }_{2}^{3} \\mathrm{He}+{ }_{0}^{1} \\mathrm{n}$;\n\n核反应过程中的质量亏损为 $\\triangle \\mathrm{m}=2 \\mathrm{~m}_{\\mathrm{H}^{-}} \\quad\\left(\\mathrm{m}_{\\mathrm{He}}+\\mathrm{m}_{\\mathrm{n}}\\right)=0.0035 \\mathrm{u}$\n\n释放的核能为 $\\triangle \\mathrm{E}=\\triangle \\mathrm{mc}^{2}=0.0035 \\mathrm{uc}^{2}=3.3 \\mathrm{MeV}$, 故 B 正确, $A C D$ 错误; 故选：B。\n",
             "index": 33,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -418,8 +384,7 @@
             ],
             "analysis": "解: $\\mathrm{AB} 、$ 一静止的铀核放出一个 $\\alpha$ 粒子衰变成针核, 根据系统动量守 恒知, 衰变后针核和 $\\alpha$ 粒子动量之和为零, 可知衰变后针核的动量大小等于 $\\alpha$ 粒子的动量大小, 根据 $\\mathrm{E}_{\\mathrm{k}}=\\frac{\\mathrm{p}^{2}}{2 \\mathrm{~m}}$ 知, 由于钍核和 $\\alpha$ 粒子质量不同, 则动能不同, 故 $\\mathrm{A}$ 错误, B 正确。\n\nC、半衰期是原子核有半数发生衰变的时间, 故 $\\mathrm{C}$ 错误。\n\nD、衰变的过程中有质量亏损, 即衰变后 $\\alpha$ 粒子与针核的质量之和小于衰变前铀 核的质量, 故 D 错误。\n\n故选：B。\n",
             "index": 34,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -430,8 +395,7 @@
             ],
             "analysis": "【解答】解: 天宫二号在天空运动, 万有引力提供向心力, 天宫二号的轨道是固 定的， 即半径是固定的\n\n根据 $F=\\frac{G M I m}{r^{2}}=\\frac{m v^{2}}{r}=\\frac{m 4 \\pi^{2} r}{T^{2}}$ 可知, 天宫二号的速度大小是不变的, 则两者对接后,\n\n速度大小不变，周期不变，加速度不变;\n\n但是和对接前相比, 质量变大, 所以动能变大。\n\n故选: C。\n",
             "index": 35,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2017",
@@ -442,8 +406,7 @@
             ],
             "analysis": "【解答】解: $A B$ 、根据光电效应方程 $E_{k m}=h v-W_{0}$ 知, $v_{a}>v_{b}$, 逸出功相同, 则 $E_{k a}>E_{k b}$, 又 $E_{k m}=e U_{c}$, 则 $U_{a}>U_{b}$, 故 $A$ 错误, B正确。\n\nC、根据 $E_{k m}=e U_{c}$ 知, 若 $U_{\\mathrm{a}}<U_{b}$, 则一定有 $E_{k a}<E_{k b}$, 故 C 正确。\n\nD、逸出功 $W_{0}=h v-E_{k m}$, 由于金属的逸出功相同, 则有: $h v_{a}-E_{k a}=h v_{b}-E_{k b}$, 故 D 错误。\n\n故选: BC。\n",
             "index": 36,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -454,8 +417,7 @@
             ],
             "analysis": "解: $A$ 、因列车做初速度为零的匀加速直线运动, 则有: $v=a t$, 而动能 表达式 $E_{k}=\\frac{1}{2} m v^{2}=\\frac{1}{2} m a^{2} t^{2}$, 可知动能与所经历的时间平方成正比, 故 $A$ 错误 ;\n\n$B 、$ 依据动能定理, 则有: $F$ 合 $x=\\frac{1}{2} m v^{2}-0$, 可知, 动能与它的位移成正比, 故 $B$ 正确;\n\nC、由动能表达式 $E_{k}=\\frac{1}{2} m v^{2}$, 可知, 动能与它的速度平方成正比, 故 $C$ 错误;\n\nD、依据动能与动量关系式, $E_{k}=\\frac{P^{2}}{2 \\mathrm{~m}}$, 可知, 动能与它的动量平方成正比, 故 $D$ 错误;\n\n故选: B。\n",
             "index": 37,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -466,8 +428,7 @@
             ],
             "analysis": "解: $A B$ 、设两颗星的质量分别为 $m_{1} 、 m_{2}$, 轨道半径分别为 $r_{1} 、 r_{2}$, 相 距 $\\mathrm{L}=400 \\mathrm{~km}=4 \\times 10^{5} \\mathrm{~m}$,\n\n根据万有引力提供向心力可知:\n\n$\\frac{\\mathrm{Gm}_{1} \\cdot \\mathrm{m}_{2}}{\\mathrm{~L}^{2}}=\\mathrm{m}_{1} r_{1} \\omega^{2}$\n\n$\\frac{G_{1} \\cdot m_{2}}{L^{2}}=m_{2} r_{2} \\omega^{2}$\n\n整理可得: $\\frac{G\\left(m_{1}+m_{2}\\right)}{L^{2}}=\\left(r_{1}+r_{2}\\right) \\frac{4 \\pi^{2}}{T^{2}}=\\frac{4 \\pi^{2} L}{T^{2}}$, 解得质量之和 $\\left(m_{1}+m_{2}\\right)=$ $\\frac{4 \\pi^{2} L^{3}}{G T^{2}}$, 其中周期 $T=\\frac{1}{12} s$, 故 $A$ 错误、B 正确;\n\n$\\mathrm{CD}$ 、由于 $\\mathrm{T}=\\frac{1}{12} \\mathrm{~s}$, 则角速度为: $\\omega=\\frac{2 \\pi}{\\mathrm{T}}=24 \\pi \\mathrm{rad} / \\mathrm{s}$, 这是公转角速度, 不是自转 角速度\n\n根据 $v=r \\omega$ 可知: $v_{1}=r_{1} \\omega, v_{2}=r_{2} \\omega$\n\n解得: $v_{1}+v_{2}=\\left(r_{1}+r_{2}\\right) \\omega=L \\omega=9.6 \\pi \\times 10^{6} \\mathrm{~m} / \\mathrm{s}$, 故 C 正确, $D$ 错误。\n\n故选: $B C$ 。\n",
             "index": 38,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -478,8 +439,7 @@
             ],
             "analysis": "解: 每层楼高约为 $3 \\mathrm{~m}$, 鸡蛋下落的总高度 $\\mathrm{h}=(25-1) \\times 3 \\mathrm{~m}=72 \\mathrm{~m}$;\n\n自由下落时间 $\\mathrm{t}_{1}=\\sqrt{\\frac{2 \\mathrm{~h}}{\\mathrm{~g}}}=\\sqrt{\\frac{2 \\times 72}{10}} \\mathrm{~s}=3.8 \\mathrm{~s}$,\n\n与地面的碰撞时间约为 $t_{2}=2 m s=0.002 s$,\n\n全过程根据动量定理可得: $m g\\left(t_{1}+t_{2}\\right)-\\mathrm{Ft}_{2}=0$\n\n解得冲击力 $\\mathrm{F}=950 \\mathrm{~N} \\approx 10^{3} \\mathrm{~N}$, 故 $\\mathrm{C}$ 正确。\n\n故选: C。\n",
             "index": 39,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -490,8 +450,7 @@
             ],
             "analysis": "解: 设位于该星体赤道处的小块物质质量为 $\\mathrm{m}$, 物体受到的星体的万有 引力恰好提供向心力, 这时星体不瓦解且有最小密度, 由万有引力定律结合牛顿第二定律得: $\\frac{\\mathrm{GM} M \\mathrm{~m}}{\\mathrm{R}^{2}}=\\mathrm{mR} \\frac{4 \\pi^{2}}{\\mathrm{~T}^{2}}$\n\n球体的体积为: $V=\\frac{4}{3} \\pi R^{3}$\n\n密度为: $\\rho=\\frac{\\mathbb{M}}{\\mathrm{V}}=\\frac{3 \\pi}{\\mathrm{GT}^{2}}$\n\n代入数据解得 $\\rho=\\frac{3 \\times 3.14}{6.67 \\times 10^{-11} \\times\\left(5.19 \\times 10^{-3}\\right)^{2}}=5 \\times 10^{15} \\mathrm{~kg} / \\mathrm{m}^{3}$. 故 C 正确、ABD\n\n错误;\n\n故选: C。\n",
             "index": 40,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -502,8 +461,7 @@
             ],
             "analysis": "【解答】解: 设 $\\mathrm{X}$ 的质量数为 $\\mathrm{m}$, 电荷数为 $\\mathrm{n}$, 根据核反应中质量数守恒和电荷 数守恒可知:\n\n$4+27=1+m ;$\n\n$2+13=0+n$\n\n解得: $\\mathrm{m}=30 ; \\mathrm{n}=15$;\n\n故其原子序数为 15 , 质量数为 30 ; 故 B 正确, $\\mathrm{ACD}$ 错误。\n\n故选: B。\n",
             "index": 41,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2018",
@@ -514,8 +472,7 @@
             ],
             "analysis": "【解答】解: 根据题意可得 $\\mathrm{P}$ 与 $\\mathrm{Q}$ 的轨道半径之比为:\n\n$\\mathrm{r}_{\\mathrm{P}}: \\mathrm{r}_{\\mathrm{Q}}=4: 1$\n\n根据开普勒第三定律有:\n\n$\\frac{r^{3}}{T^{2}}=k$\n\n得: $\\frac{r_{P}^{3}}{T_{P}^{2}}=\\frac{r_{Q}^{3}}{T_{Q}^{2}}$\n\n可得周期之比为:\n\n$\\mathrm{T}_{\\mathrm{P}}: \\mathrm{T}_{\\mathrm{Q}}=8: \\quad 1$\n\n故 C 正确, ABD 错误。\n\n故选:C。\n",
             "index": 42,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -526,8 +483,7 @@
             ],
             "analysis": "【解答】解: 以气体为研究对象, 设 $\\mathrm{t}=1 \\mathrm{~s}$ 内喷出的气体质量为 $\\mathrm{m}$, 根据动量定理可得:\n\n$\\mathrm{Ft}=\\mathrm{mv}-0$\n\n其中 $\\mathrm{v}=3 \\mathrm{~km} / \\mathrm{s}=3000 \\mathrm{~m} / \\mathrm{s}$\n\n解得: $\\mathrm{m}=\\frac{\\mathrm{Ft}}{\\mathrm{v}}=\\frac{4.8 \\times 10^{6} \\times 1}{3000} \\mathrm{~kg}=1.6 \\times 10^{3} \\mathrm{~kg}$, 故 B 正确, $\\mathrm{ACD}$ 错误。\n\n故选：B。\n",
             "index": 43,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -538,8 +494,7 @@
             ],
             "analysis": "【解答】解：反应过程中的质量亏损约为:\n\n$\\Delta \\mathrm{m}=4 \\mathrm{~m}_{\\mathrm{p}}-\\mathrm{m}_{\\mathrm{a}}=4 \\times 1.0078 \\mathrm{u}-4.0026 \\mathrm{u}=0.0286 \\mathrm{u}$\n\n由于 $1 \\mathrm{u}=931 \\mathrm{MeV} / \\mathrm{c}^{2}$\n\n根据爱因斯坦质能方程可得： $\\triangle \\mathrm{E}=\\triangle \\mathrm{mc}^{2}=26 \\mathrm{MeV}$ ，故 C 正确, $\\mathrm{ABD}$ 错误。\n\n故选：C。\n",
             "index": 44,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -550,8 +505,7 @@
             ],
             "analysis": "【解答】解: 以物体为研究对象, 沿斜面方向根据平衡条件可得:\n\n$\\mathrm{F}=\\mathrm{mg} \\sin 30^{\\circ}+\\mu \\mathrm{mg} \\cos 30^{\\circ}$\n\n当拉力最大时质量最大, 解得: $\\mathrm{m}=150 \\mathrm{~kg}$, 故 A 正确, $\\mathrm{BCD}$ 错误。\n\n故选：A。\n",
             "index": 45,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -562,8 +516,7 @@
             ],
             "analysis": "【解答】解: A、由于电场的特点末知, 对于带电粒子, 其运动过程中, 粒子的速度大小 可能先增大后减小。故 A 正确;\n\n$B$ 、带电粒子在只受电场力, 且电场线是直线时运动轨迹才与电场线重合, 由于该电场末 知, 所以粒子的轨迹不一定与某条电场线重合。故 B 错误;\n\n$\\mathrm{C}$ 、粒子从静止开始运动, 电场力一定做正功, 所以粒子在 $\\mathrm{M}$ 点的电势能不低于其在 $\\mathrm{N}$ 点的电势能。故 C 正确;\n\n$\\mathrm{D}$ 、若粒子运动的轨迹为曲线, 粒子在 $\\mathrm{N}$ 点所受电场力的方向为电场线的切线方向, 粒 子轨迹的切线方向为速度的方向, 根据曲线运动的条件可知, 此时电场力的方向与速度 的方向一定不能平行。故 D 错误\n\n故选: $\\mathrm{AC}$\n",
             "index": 46,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -574,8 +527,7 @@
             ],
             "analysis": "【解答】解：当线圈与磁体间有相对运动时, 根据 “来拒去留” 可知，磁场力都是阻碍 线圈与磁体间的相对运动, 有外力对系统做了功, 导致其他形式的能转化为线圈的电能; 当导体做切割磁感线运动时, 安培力总是阻碍导体的运动, 导体克服安培力做, 把其他 形式的能转化为电能, 所以楞次定律是能量守恒定律在电磁感应现象中的体现, 故 D 正 确， $\\mathrm{ABC}$ 错误。\n\n故选：D。\n",
             "index": 47,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2019",
@@ -586,8 +538,7 @@
             ],
             "analysis": "【解答】解: 行星绕太阳运动时, 万有引力提供向心力, 设太阳的质量为 $\\mathrm{M}$, 行星的质 量为 $\\mathrm{m}$, 行星的轨道半径为 $\\mathrm{r}$, 根据牛顿第二定律有:\n\n$G \\frac{M m}{r^{2}}=m a=m \\frac{v^{2}}{r}$\n\n可得向心加速度为 $a=G \\frac{M}{r^{2}}$, 线速度为 $v=\\sqrt{\\frac{G M}{r}}$, 由题意有 $R_{\\text {金 }}<R_{\\text {地 }}<R_{\\text {火 }}$, 所以有 $a \\hat{a}_{\\text {金 }}>a$ 地 $>\\mathrm{a}_{\\text {火 }}, \\mathrm{v}_{\\text {金 }}>\\mathrm{v}_{\\text {地 }}>\\mathrm{v}_{\\text {火 }}$, 故 A 正确, BCD 错误。\n\n故选: A。\n",
             "index": 48,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -598,8 +549,7 @@
             ],
             "analysis": "【解答】解: ABD、在碰撞过程中, 司机的动量的变化量是一定的, 但安全气囊会增加 作用的时间, 根据动量定理 $\\mathrm{Ft}=\\triangle \\mathrm{p}$ 可知, 可以减小司机受到的冲击力 $\\mathrm{F}$, 同时安全气囊 会增大司机的受力面积, 则司机单位面积的受力大小 $\\frac{F}{S}$ 减小, 故 $\\mathrm{AB}$ 错误, D 正确。\n\n$\\mathrm{C} 、$ 安全气囊只是延长了作用时间, 减小了司机的受力, 将司机的动能转换成气囊的弹性 势能，故 $\\mathrm{C}$ 错误。\n\n故选：D。\n",
             "index": 49,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -610,8 +560,7 @@
             ],
             "analysis": "【解答】解: $A$ 、根据电荷数守恒、质量数守恒知, $X_{1}$ 的电荷数为 2 , 质量数为 3 , 但不 是 $a$ 粒子，故 $\\mathrm{A}$ 错误;\n\n$\\mathrm{B}$ 、根据电荷数守恒、质量数守恒知, $\\mathrm{X}_{2}$ 的电荷数为 2 , 质量数为 4 , 为 $\\mathrm{a}$ 粒子, 故 $\\mathrm{B}$ 正 确;\n\n$\\mathrm{C}$ 、根据电荷数守恒、质量数守恒知, $\\mathrm{X}_{3}$ 的电荷数为 0 , 质量数为 1 , 为中子, 故 $\\mathrm{C}$ 错误; $\\mathrm{D} 、$ 根据电荷数守恒、质量数守恒知, $\\mathrm{X}_{4}$ 的电荷数为 2 , 质量数为 4 , 为 $a$ 粒子, 故 $\\mathrm{D}$ 正 确。\n\n故选: BD。\n",
             "index": 50,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -622,8 +571,7 @@
             ],
             "analysis": "【解答】解: 设星球的质量为 $\\mathrm{M}$, 半径为 $\\mathrm{R}$, 卫星的质量为 $\\mathrm{m}$, 运行周期为 $\\mathrm{T}$, 在该星 体表面附近沿圆轨道绕其运动的卫星所需的向心力由星球对其的万有引力提供, 则根据 牛顿第二定律得: $G \\frac{M m}{R^{2}}=m \\frac{4 \\pi^{2}}{T^{2}} R(1)$\n\n星球的密度: $\\rho=\\frac{M}{\\frac{4}{3} \\pi R^{3}}(2)$\n\n联立(1)(2)解得 $\\mathrm{T}=\\sqrt{\\frac{3 \\pi}{G \\rho}}$, 故 A 正确, BCD 错误;\n\n故选: A。\n",
             "index": 51,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -634,8 +582,7 @@
             ],
             "analysis": "【解答】解：根据反应式 ${ }_{1}^{2} \\mathrm{H} \\rightarrow 2{ }_{2}^{4} \\mathrm{He}+2 \\underset{1}{1} \\mathrm{H}+2 \\underset{0}{1} \\mathrm{n}+43.15 \\mathrm{MeV}$ 可知, 6 个氚核发生聚变反 应可放出 $43.15 \\mathrm{MeV}$ 的能量, 则平均每个氖核可放出 $7.19 \\mathrm{MeV}$ 的能量, 若 $1 \\mathrm{~kg}$ 海水中含 有的 $1.0 \\times 10^{22}$ 个㲴核全都发生聚变反应, 其释放的能量为 $7.19 \\times 10^{22} \\mathrm{MeV}$; 则质量为 $\\mathrm{M}$ 的标准煤燃绕时释放的热量 $\\mathrm{Q}=7.19 \\times 10^{22} \\times 1.6 \\times 10^{-13} \\mathrm{~J}=11.5 \\times 10^{9} \\mathrm{~J}$, 而 $1 \\mathrm{~kg}$ 标准煤燃 烧释放的热量约为 $2.9 \\times 10^{7} \\mathrm{~J}$, 则 $\\mathrm{M}=\\frac{11.5 \\times 10^{9}}{2.9 \\times 10^{7}} \\mathrm{~kg} \\approx 400 \\mathrm{~kg}$; 故 ABD 错误, $\\mathrm{C}$ 正确; 故选: $\\mathrm{C}^{\\circ}$\n",
             "index": 52,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -646,8 +593,7 @@
             ],
             "analysis": "【解答】解: $\\mathrm{AB}$ 、远距离输电时, 线路上的电流 $\\mathrm{I}=\\frac{\\mathrm{P}}{\\mathrm{U}}$; 则在线路上损失的功率为 $\\triangle \\mathrm{P}=$ $\\mathrm{I}^{2} \\mathrm{R}=\\frac{\\mathrm{P}^{2} \\mathrm{R}}{\\mathrm{U}^{2}}$; 根据损失的功率公式可知, 损失的功率与电压的平方成反比; 假设从 $\\mathrm{A}$ 处 采用 $550 \\mathrm{kV}$ 的超高压向 B 处输电, 若改用 $1100 \\mathrm{kV}$ 特高压输电, 电压变成原来的 2 倍, 则输电线上损耗的电功率变为原来的 $\\frac{1}{4}$, 即 $\\triangle \\mathrm{P}^{\\prime}=\\frac{1}{4} \\triangle \\mathrm{P}$; 故 A 正确, $\\mathrm{B}$ 错误;\n\n$\\mathrm{CD}$ 、线路上的电流 $\\mathrm{I}=\\frac{\\mathrm{P}}{\\mathrm{U}}$, 到达 $\\mathrm{B}$ 处时电压下降了 $\\triangle \\mathrm{U}=\\mathrm{IR}=\\frac{\\mathrm{P}}{\\mathrm{U}} \\mathrm{R}$, 电压降与电压成反比, 则若电压变成原来的 2 倍, $\\triangle \\mathrm{U}$ 变为原来的 $\\frac{1}{2}$, 故 $\\triangle \\mathrm{U}^{\\prime}=\\frac{1}{2} \\Delta U$, 故 $\\mathrm{C}$ 错误, $\\mathrm{D}$ 正确; 故选: $\\mathrm{AD}$\n",
             "index": 53,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -658,8 +604,7 @@
             ],
             "analysis": "【解答】解: 设该运动员的质量为 $\\mathrm{M}$, 物块的质量为 $\\mathrm{m}=4.0 \\mathrm{~kg}$, 推物块的速度大小为 $\\mathrm{v}$ $=5.0 \\mathrm{~m} / \\mathrm{s}$, 取人运动的方向为正方向, 根据动量守恒定律可得:\n\n第一次推物块的过程中: $0=\\mathrm{Mv}_{1}-\\mathrm{mv}$\n\n第二次推物块的过程中: $\\mathrm{Mv}_{1}+\\mathrm{mv}=\\mathrm{Mv}_{2}-\\mathrm{mv}$\n\n第三次推物块的过程中: $\\mathrm{Mv}_{2}+\\mathrm{mv}=\\mathrm{Mv}_{3}-\\mathrm{mv}$\n\n第 $\\mathrm{n}$ 次推物块的过程中: $M_{v_{n} .1}+\\mathrm{mv}=\\mathrm{Mv}_{\\mathrm{n}}-\\mathrm{mv}$\n\n以上各式相加可得: $\\operatorname{Mv}_{\\mathrm{n}}=(2 \\mathrm{n}-1) \\mathrm{mv}$\n\n当 $n=7$ 时, $v 7<v$ ，解得 $M>52 \\mathrm{~kg}$\n\n当 $n=8$ 时, $v 8 \\geqslant v$, 解得 $M \\leqslant 60 \\mathrm{~kg}$,\n\n故 $52 \\mathrm{~kg}<M \\leqslant 60 \\mathrm{~kg}$, 故 AD 错误、BC 正确。\n\n故选: $\\mathrm{BC}$ 。\n",
             "index": 54,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -670,8 +615,7 @@
             ],
             "analysis": "【解答】解: 令月球的半径为 $\\mathrm{R}_{1}$, 月球的质量为 $\\mathrm{M}_{1}$, 地球的质量为 $\\mathrm{M}$, 嫦娥四号的质 量为 $\\mathrm{m}$, 则嫦娥四号” 绕月球做匀速圆周运动的半径为 $\\mathrm{KR}_{1}$, 根据牛顿第二定律有: $G \\frac{M_{1} m}{\\left(\\mathrm{KR}_{1}\\right)^{2}}=\\frac{\\mathrm{v}^{2}}{\\mathrm{KR}_{1}}$\n\n所以 $v=\\sqrt{\\frac{G M_{1}}{K_{R}}}=\\sqrt{\\frac{G \\frac{M}{Q}}{K \\frac{R}{P}}}=\\sqrt{\\frac{G M P}{K R Q}}$\n\n根据黄金代换式有: $\\mathrm{GM}=\\mathrm{gR}^{2}$ ，\n\n所以嫦娥四号” 绕月球做圆周运动的速率为: $v=\\sqrt{\\frac{\\mathrm{RPg}}{\\mathrm{QK}}}$, 故 $\\mathrm{ABC}$ 错误, $\\mathrm{D}$ 正确。\n\n故选：D。\n",
             "index": 55,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2020",
@@ -682,8 +626,7 @@
             ],
             "analysis": "【解答】解: 设 $\\mathrm{X}$ 的质量数为 $\\mathrm{M}$, 电荷数为 $\\mathrm{A}$, 根据核反应中质量数守恒和电荷数守恒 可知: $4+27=1+\\mathrm{M} ; 2+13=0+\\mathrm{A}$\n\n解得: $M=30, A=15$;\n\n设 $\\mathrm{Y}$ 的质量数为 $\\mathrm{M}^{\\prime}$, 电荷数为 $\\mathrm{A}^{\\prime}$, 根据核反应中质量数守恒和电荷数守恒可知: 30 $=\\mathrm{M}^{\\prime}+0 ; 15=\\mathrm{A}^{\\prime}+1$\n\n解得: $\\mathrm{M}^{\\prime}=30, \\mathrm{~A}^{\\prime}=14$;\n$\\mathrm{A} 、 \\mathrm{X}$ 的质量数与 $\\mathrm{Y}$ 的质量数相等, 都是 30 , 故 $\\mathrm{A}$ 正确;\n$\\mathrm{B} 、 \\mathrm{X}$ 的电荷数比 $\\mathrm{Y}$ 的电荷数多 1, 故 B 错误;\n$\\mathrm{C} 、 \\mathrm{X}$ 的电荷数为 15 , 比铝的电荷数多 2 , 故 $\\mathrm{C}$ 正确;\n$\\mathrm{D} 、 \\mathrm{X}$ 的质量数为 30 , 和铝的质量数不相等，故 D 错误。\n\n故选: $\\mathrm{AC}$ 。\n",
             "index": 56,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2021",
@@ -694,8 +637,7 @@
             ],
             "analysis": "【详解】忽略火星自转则\n\n$$\n\\frac{G M m}{R^{2}}=m g(1)\n$$\n\n可知\n\n$$\nG M=g R^{2}\n$$\n\n设与为 $1.8 \\times 10^{5} \\mathrm{~s}$ 的椭圆形停泊轨道周期相同的圆形轨道半径为 $r$, 由万引力提供向心力可知\n\n$$\n\\frac{G M m}{r^{2}}=m \\frac{4 \\pi^{2}}{T^{2}} r(2)\n$$\n\n设近火点到火星中心为\n\n$$\nR_{1}=R+d_{1}(3\n$$\n\n设远火点到火星中心为\n\n$$\nR_{2}=R+d_{2}(4)\n$$\n\n由开普勒第三定律可知\n\n$$\n\\frac{r 3}{T^{2}}=\\frac{\\left(\\frac{R_{1}+R_{2}}{2}\\right)^{3}}{T^{2}}\n$$\n\n由以上分析可得\n\n$$\nd_{2} \\approx 6 \\times 10^{7} \\mathrm{~m}\n$$\n\n故选 $\\mathrm{C}$ 。\n",
             "index": 57,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2021",
@@ -706,8 +648,7 @@
             ],
             "analysis": "【详解】 $\\mathrm{AC}$. 物体从斜面底端回到斜面底端根据动能定理有\n\n$$\n-\\mu m g \\cdot 2 l \\cos a=\\frac{E_{k}}{5}-E_{k}\n$$\n\n物体从斜面底端到斜面顶端根据动能定理有\n\n$$\n-m g l \\sin a-\\mu m g l \\cos a=0-E_{k}\n$$\n\n整理得\n\n$$\nl=\\frac{E_{\\mathrm{k}}}{m g} ; \\quad \\mu=0.5\n$$\n\n$\\mathrm{A}$ 错误，C 正确;\n\nB. 物体向下滑动时的根据牛顿第二定律有\n\n$$\nm a=m g \\sin a-\\mu m g \\cos a\n$$\n\n求解得出\n\n$$\na=\\frac{g}{5}\n$$\n\nB 正确;\n\nD. 物体向上滑动时的根据牛顿第二定律有\n\n$$\nm a_{\\text {上 }}=m g \\sin a+\\mu m g \\cos a\n$$\n\n物体向下滑动时的根据牛顿第二定律有\n\n$$\nm a_{\\text {下 }}=m g \\sin a-\\mu m g \\cos a\n$$\n\n由上式可知\n\n$$\na_{\\text {上 }}>a_{\\text {下 }}\n$$\n\n由于上升过程中的末速度为零, 下滑过程中的初速度为零, 且走过相同的位移, 根据公式\n\n$$\nl=\\frac{1}{2} a t^{2}\n$$\n\n则可得出\n\n$$\nt_{\\text {上 }}<t_{\\text {下 }}\n$$\n\nD 错误。\n\n故选 BC。\n",
             "index": 58,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2021",
@@ -718,8 +659,7 @@
             ],
             "analysis": "【详解】CD. 外力撤去前, 由牛顿第二定律可知\n\n$$\nF-\\mu m g=m a_{1} \\text { (1) }\n$$\n\n由速度位移公式有\n\n$$\nv_{0}^{2}=2 a_{1} s_{0}(2\n$$\n\n外力撤去后, 由牛顿第二定律可知\n\n$$\n-\\mu m g=m a_{2}\n$$\n\n由速度位移公式有\n\n$$\n-v_{0}^{2}=2 a_{2}\\left(2 s_{0}\\right)\n$$\n\n由(1)(2)(3)(4)可得, 水平恒力\n\n$$\nF=\\frac{3 m v_{0}^{2}}{4 s_{0}}\n$$\n\n动摩擦因数\n\n$$\n\\mu=\\frac{v_{0}^{2}}{4 g s_{0}}\n$$\n\n滑动摩擦力\n\n$$\nF_{\\mathrm{f}}=\\mu m g=\\frac{m v_{0}^{2}}{4 s_{0}}\n$$\n\n可知 $F$ 的大小等于物体所受滑动摩擦力大小的 3 倍,\n\n故 C 正确，D 错误;\n\nA. 在此过程中, 外力 $F$ 做功为\n\n$$\nW=F s_{0}=\\frac{3}{4} m v_{0}^{2}\n$$\n\n故 A 错误;\n\nB. 由平均速度公式可知，外力 $F$ 作用时间\n\n$$\nt_{1}=\\frac{s_{0}}{\\frac{0+v_{0}}{2}}=\\frac{2 s_{0}}{v_{0}}\n$$\n\n在此过程中, $F$ 的冲量大小是\n\n$$\nI=F t_{1}=\\frac{3}{2} m v_{0}\n$$\n\n故 B 正确。\n\n故选 BC。\n",
             "index": 59,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2022",
@@ -730,8 +670,7 @@
             ],
             "analysis": "【详解】ABC. 航天员在空间站中所受万有引力完全提供做圆周运动的向心力, 飞船对其作用力等于零, 故 C 正确, AB 错误;\n\nD. 根据万有引力公式\n\n$$\nF_{\\text {万 }}=G \\frac{M m}{r^{2}}\n$$\n\n可知在地球表面上所受引力的大小大于在飞船所受的万有引力大小, 因此地球表面引力大于其随飞船运动 所需向心力的大小, 故 D 错误。\n\n故选 C。\n",
             "index": 60,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2022",
@@ -742,8 +681,7 @@
             ],
             "analysis": "【详解】一个光子的能量为\n\n$$\nE=h v\n$$\n\n$v$ 为光的频率, 光的波长与频率有以下关系\n\n$$\nc=\\lambda v\n$$\n\n光源每秒发出的光子的个数为\n\n$$\nn=\\frac{P}{h v}=\\frac{P \\lambda}{h c}\n$$\n\n$P$ 为光源的功率, 光子以球面波的形式传播, 那么以光源为原点的球面上的光子数相同, 此时距光源的距离 为 $R$ 处, 每秒垂直通过每平方米的光子数为 $3 \\times 10^{14}$ 个, 那么此处的球面的表面积为\n\n$$\nS=4 \\pi R^{2}\n$$\n\n则\n\n$$\n\\frac{n}{S}=3 \\times 10^{14}\n$$\n\n联立以上各式解得\n\n$$\nR \\approx 3 \\times 10^{2} \\mathrm{~m}\n$$\n\n故选 B。\n",
             "index": 61,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2022",
@@ -754,8 +692,7 @@
             ],
             "analysis": "【详解】由题知当列车的任一部分处于隧道内时, 列车速率都不允许超过 $v\\left(v<v_{0}\\right)$, 则列车 进隧道前必须减速到 $v$, 则有\n\n$$\nv=v_{0}-2 a t_{1}\n$$\n\n解得\n\n$$\nt_{1}=\\frac{v_{0}-v}{2 a}\n$$\n\n在隧道内匀速有\n\n$$\nt_{2}=\\frac{L+l}{v}\n$$\n\n列车尾部出隧道后立即加速到 $v_{0}$ ，有\n\n$$\nv_{0}=v+a t_{3}\n$$\n\n解得\n\n$$\nt_{3}=\\frac{v_{0}-v}{a}\n$$\n\n则列车从减速开始至回到正常行驶速率 $v_{0}$ 所用时间至少为\n\n$$\nt=\\frac{3\\left(v_{0}-v\\right)}{2 a}+\\frac{L+l}{v}\n$$\n\n故选 C。\n",
             "index": 62,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2022",
@@ -766,8 +703,7 @@
             ],
             "analysis": "【详解】根据题意设半衰期为 $t_{0}$ 的元素原子核数为 $x$, 另一种元素原子核数为 $y$, 依题意有\n\n$$\nx+y=N\n$$\n\n经历 $2 t_{0}$ 后有\n\n$$\n\\frac{1}{4} x+\\frac{1}{2} y=\\frac{N}{3}\n$$\n\n联立可得\n\n$$\nx=\\frac{2}{3} N, \\quad y=\\frac{1}{3} N\n$$\n\n在 $t=4 t_{0}$ 时, 原子核数为 $x$ 的元素经历了 4 个半衰期, 原子核数为 $y$ 的元素经历了 2 个半衰 期, 则此时末衰变的原子核总数为\n\n$$\nn=\\frac{1}{2^{4}} x+\\frac{1}{2^{2}} y=\\frac{N}{8}\n$$\n\n故选 C。\n",
             "index": 63,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -778,8 +714,7 @@
             ],
             "analysis": "【详解】A. 铅球做平抛运动, 仅受重力, 故机械能守恒, A 错误;\nB. 铅球的加速度恒为重力加速度保持不变, B 正确;\nCD. 铅球做平抛运动, 水平方向速度不变, 坚直方向做匀加速直线运动, 根据运动的合成可知铅球速度变大, 则动能越来越大, $\\mathrm{CD}$ 错误。\n故选 B。",
             "index": 64,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -790,8 +725,7 @@
             ],
             "analysis": "【详解】设 $\\mathrm{Y}$ 电荷数和质量数分别为 $m$ 和 $n$, 根据核反应方程质量数和电荷数守恒可知第一个核反应方程的核电荷数和质量数满足\n$$\nA+14=n+17, \\quad Z+7=m+8\n$$\n第二个核反应方程的核电荷数和质量数满足\n$$\nn+7=2 A, \\quad m+3=2 Z\n$$\n联立解得\n$$\nZ=2, \\quad A=4\n$$\n故选 D",
             "index": 65,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -802,8 +736,7 @@
             ],
             "analysis": "【详解】质点做匀速圆周运动, 根据题意设周期\n$$\nT=\\frac{k}{r}\n$$\n合外力等于向心力, 根据\n$$\nF_{\\text {溜 }}=F_{\\mathrm{n}}=m \\frac{4 \\pi^2}{T^2} r\n$$\n联立可得\n$$\nF_{\\mathrm{n}}=\\frac{4 m \\pi^2}{k^2} r^3\n$$\n其中 $\\frac{4 m \\pi^2}{k^2}$ 为常数, $r$ 的指数为 3 , 故题中\n$$\nn=3\n$$\n故选 C。",
             "index": 66,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -814,8 +747,7 @@
             ],
             "analysis": "【详解】A. 上升过程和下降过程的位移大小相同, 上升过程的末状态和下降过程的初状态速度均为零。对排球受力分析, 上升过程的重力和阻力方向相同, 下降过程中重力和阻力方向相反, 根据牛顿第二定律可知, 上升过程中任意位置的加速度比下降过程中对应位置的加速度大, 则上升过程的平均加速度较大。由位移与时间关系可知, 上升时间比下落时间短, $\\mathrm{A}$ 错误;\nB. 上升过程排球做减速运动, 下降过程排球做加速运动。在整个过程中空气阻力一直做负功, 小球机械能一直在减小, 下降过程中 最低点的速度小于上升过程的最低点的速度, 故排球被垫起时的速度最大, B 正确;\nC. 达到最高点速度荘 零, 空气阻力为零, 此刻排球重力提供加速度不为零, $\\mathrm{C}$ 错误;\nD. 下落过程中, 排球速度在变, 所受空气阻力在变, 故排球所受的合外力在变化, 排球在下落过程中做变加运动, $\\mathrm{D}$ 错误。\n故选 B。",
             "index": 67,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -826,8 +758,7 @@
             ],
             "analysis": "【详解】根据质能方程 $E=m c^2$ 可知, 则每秒钟平均减少的质量为\n$$\n\\Delta m=\\frac{E_0}{60 c^2}=\\frac{10^{48}}{60 \\times\\left(3 \\times 10^8\\right)^2}=\\frac{10^{30}}{5.4} \\mathrm{~kg}\n$$\n则每秒钟平均减少的质量量级为 $10^{29} \\mathrm{~kg}$ 。故选 C。",
             "index": 68,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -838,8 +769,7 @@
             ],
             "analysis": "【详解】声波的周期和频率由振源决定, 故声波在空气中和在水中传播的周期和频率均相同, 但声波在空气和水中传播的波速不同，根据波速与波长关系 $v=\\lambda f$ 可知，波长也不同。故 $\\mathrm{A}$ 正确, $\\mathrm{BCD}$ 错误。故选 A。",
             "index": 69,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -850,8 +780,7 @@
             ],
             "analysis": "【详解】在地面附近雨滴做匀速运动, 根据动能定理得\n$$\nm g h-W_{\\mathrm{f}}=0\n$$\n故雨滴克服空气阻力做功为 $m g h$ 。故选 B。",
             "index": 70,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -862,8 +791,7 @@
             ],
             "analysis": "【详解】铯原子利用的两能极的能量差量级对应的能量为\n$$\n\\varepsilon=10^{-5} \\mathrm{eV}=10^{-5} \\times 1.6 \\times 10^{-19} \\mathrm{~J}=1.6 \\times 10^{-24} \\mathrm{~J}\n$$\n由光子能量的表达式 $\\varepsilon=h v$ 可得, 跃迁发射的光子的频率量级为\n$$\nv=\\frac{\\varepsilon}{h}=\\frac{1.6 \\times 10^{-24}}{6.63 \\times 10^{-34}} \\mathrm{~Hz} \\approx 2.4 \\times 10^9 \\mathrm{~Hz}\n$$\n跃迁发射的光子的频率量级为 $10^9 \\mathrm{~Hz}$ 。故选 C。",
             "index": 71,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2023",
@@ -874,8 +802,7 @@
             ],
             "analysis": "【详解】A. 物体在低速 (速度远小于光速) 宏观条件下质量保持不变, 即在空间站和地面质量相同, 故 A 错误;\nBC. 设空间站离地面的高度为 $h$, 这批物质在地面上静止合力为零, 在空间站所受合力为万有引力即\n$$\nF=\\frac{G M m}{(R+h)^2}\n$$\n在地面受地球引力为\n$$\nF_1=\\frac{G M m}{R^2}\n$$\n因此有 $F_1>F$, 故 $\\mathrm{BC}$ 错误;\nD. 物体绕地球做匀速圆周运动万有引力提供向心力\n$$\n\\frac{G M m}{r^2}=m \\omega^2 r\n$$\n解得\n$$\n\\omega=\\sqrt{\\frac{G M}{r^3}}\n$$\n这批物质在空间站内的轨道半径小于同步卫星的轨道半径, 因此这批物质的角速度大于同步卫星的角速度,同步卫星的角速度等于地球自转的角速度, 即这批物质的角速度大于地球自转的角速度, 故 $\\mathrm{D}$ 正确。故选 D。",
             "index": 72,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": 2023,
@@ -886,8 +813,7 @@
             ],
             "analysis": "【详解】A. 气体的体积不变温度升高, 则气体的内能升高, 体积不变气体做功为零, 因此气体吸收热量, A 正确;\nB. 气体的体积减小温度降低, 则气体的内能降低, 体积减小外界对气体做功, 由热力学第一定律\n$$\n\\Delta U=W+Q\n$$\n可知气体对外放热, B 正确;\nC. 气体的体积减小温度升高, 则气体的内能升高, 体积减小外界对气体做功, 由热力学第一定律\n$$\n\\Delta U=W+Q\n$$\n可知 $Q$ 可能等于零, 即没有热量交换过程, $\\mathrm{C}$ 错误;\nD. 气体的体积增大温度不变则气体的内能不变, 体积增大气体对外界做功, 由热力学第一定律\n$$\n\\Delta U=W+Q\n$$\n可知\n$$\nQ>0\n$$\n即气体吸收热量, D 正确;\nE. 气体的体积增大温度降低则气体的内能降低, 体积增大气体对外界做功, 由热力学第一定律\n$$\n\\Delta U=W+Q\n$$\n可知 $Q$ 可能等于零, 即没有热量交换过程, $\\mathrm{E}$ 错误。故选 ABD。",
             "index": 73,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": 2023,
@@ -898,8 +824,7 @@
             ],
             "analysis": "【详解】A. 对于一定质量的理想气体内能由温度决定, 故等温增压和等温膨胀过程温度均保持不变, 内能不变, 故 A 正确;\nB. 根据理想气体状态方程\n$$\n\\frac{P V}{T}=C\n$$\n可知等压膨胀后气体温度升高, 内能增大, 等温压缩温度不变, 内能不变, 故末状态与初始状态相比内能增加, 故 B 错误;\nC. 根据理想气体状态方程可知等容减压过程温度降低, 内能减小; 等压膨胀过程温度升高, 末状态的温度有可能和初状态的温度相等, 内能相等, 故 C 正确;\nD. 根据理想气体状态方程可知等容增压过程温度升高; 等压压缩过程温度降低, 末状态的温度有可能和初状态的温度相等, 内能相等, 故 D 正确;\nE. 根据理想气体状态方程可知等容增压过程温度升高; 等温膨胀过程温度不变, 故末状态的内能大于初状态的内能, 故 $\\mathrm{E}$ 错误。\n故选 ACD。",
             "index": 74,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2024",
@@ -910,8 +835,7 @@
             ],
             "analysis": "【详解】根据反应前后质量数和电荷数守恒可得\n$$\n\\begin{gathered}\n6 \\times 2=2 \\times 4+x+y \\\\\n6=2 \\times 2+y\n\\end{gathered}\n$$\n解得\n$$\nx=2, \\quad y=2\n$$\n故选 C。",
             "index": 75,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2024",
@@ -922,8 +846,7 @@
             ],
             "analysis": "【详解】A. 在环月飞行时, 样品所受合力提供所需的向心力, 不为零, 故 A 错误;\nBD. 若将样品放置在月球正面, 它对月球表面压力大小等于它在月球表面的重力大小; 由于月球表面自由落体加速度约为地球表面自由落体加速度的 $\\frac{1}{6}$, 则样品在地球表面的重力大于在月球表面的重力, 所以样品放置在月球背面时对月球的压力, 比放置在地球表面时对地球的压力小, 故 B 错误, D 正确;\nC. 样品在不同过程中受到的引力不同, 但样品的质量相同, 故 C 错误。\n故选 D。",
             "index": 76,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2024",
@@ -934,8 +857,7 @@
             ],
             "analysis": "【详解】动能表达式为\n$$\nE_{\\mathrm{k}}=\\frac{1}{2} m v_{2}^{2}\n$$\n由题意可知小车水平离开甲板时的动能变为调整前的 4 倍，则离开甲板时速度变为变为调整前的 2 倍；小车离开甲板后做平抛运动，从离开加班到到达海面上时间不变，根据\n$$\nx=v t\n$$\n可知小车在海面上的落点与其离开甲板处的水平距离为调整前的 2 倍。\n故选 C。",
             "index": 77,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2024",
@@ -946,8 +868,7 @@
             ],
             "analysis": "【详解】设红矮星质量为 $M_{1}$, 行星质量为 $m 1$, 半径为 $r_{1}$, 周期为 $T_{1}$; 太阳的质量为 $M_{2}$, 地球质量为 $m_{2}$ ，到太阳距离为 $r_{2}$ ，周期为 $T_{2}$ ；根据万有引力定律有\n$$\n\\begin{aligned}\n& G \\frac{M_{1} m_{1}}{r_{1}^{2}}=m_{1} \\frac{4 \\pi^{2}}{T_{1}^{2}} r_{1} \\\\\n& G \\frac{M_{2} m_{2}}{r_{2}^{2}}=m_{2} \\frac{4 \\pi^{2}}{T_{2}^{2}} r_{2}\n\\end{aligned}\n$$\n联立可得\n$$\n\\frac{M_{1}}{M_{2}}=\\left(\\frac{r_{1}}{r_{2}}\\right)^{3} \\cdot\\left(\\frac{T_{2}}{T_{1}}\\right)^{2}\n$$\n由于轨道半径约为日地距离的 0.07 倍，周期约为 0.06 年，可得\n$$\n\\frac{M_{1}}{M_{2}} \\approx 0.1\n$$\n故选 B。",
             "index": 78,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2024",
@@ -958,8 +879,7 @@
             ],
             "analysis": "【详解】AB. 由于红光的频率小于蓝光的频率, 则红光的波长大于蓝光的波长, 根据\n$$\nE=h v\n$$\n可知蓝光光子的能量大于红光光子的能量；根据\n$$\np=\\frac{h}{\\lambda}\n$$\n可知蓝光光子 ${ }^{\\square}$ 动量大于红光光子的动量, 故 A 正确, B 错误;\nC. 由于红光的折射率小于蓝光，根据\n$$\nv=\\frac{c}{n}\n$$\n可知在玻璃中传播时, 蓝光的速度小于红光的速度, 故 C 错误;\nD. 光从一种介质射入另一种介质中频率不变, 故 D错误。\n故选 A。",
             "index": 79,
-            "score": 6,
-            "field": "scientific_inquiry"
+            "score": 6
         },
         {
             "year": "2025",
@@ -970,8 +890,7 @@
             ],
             "analysis": "【详解】根据匀变速直线运动的速度公式：\n\n$$\nv = v_0 + at\n$$\n\n其中：\n- $v_0 = 12\\,\\mathrm{m/s}$（初速度）\n- $v = 0\\,\\mathrm{m/s}$（末速度）\n- $t = 2\\,\\mathrm{s}$（时间）\n\n代入得：\n\n$$\n0 = 12 + a \\times 2\n$$\n\n解得：\n\n$$\na = -6\\,\\mathrm{m/s^2}\n$$\n\n负号表示加速度方向与运动方向相反，题目问的是加速度的大小，因此取绝对值，即 $6\\,\\mathrm{m/s^2}$。\n\n故选 C。",
             "index": 80,
-            "score": 4,
-            "field": "scientific_inquiry"
+            "score": 4
         }
     ]
 }
