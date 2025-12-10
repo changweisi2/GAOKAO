@@ -9,10 +9,10 @@ filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"
 # filename = "ObjectiveProblems/2010-2025_Geography_MCQs.json"  
 
 # 领域分类
-# filename = "Fields\MathematicalReasoning.json"  
-# filename = "Fields\LogicalReasoning.json"  
+# filename = "Fields\Mathematical_Reasoning.json"  
+# filename = "Fields\Logical_Reasoning.json"  
 # filename = "Fields\Lang_Comp_and_Produc.json"  
-# filename = "Fields\Scientific_Inquiry.json"  
+# filename = "Fields\Natural_Science.json"  
 # filename = "Fields\Sociocultural_Understanding.json"  
 # filename = "Fields\Data_and_StatisticalLiteracy.json"  
 # filename = "Fields\Commonsense_and_WorldKnowledge.json"  
