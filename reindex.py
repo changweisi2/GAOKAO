@@ -1,7 +1,7 @@
 import json
 
 # 科目分类
-filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"  
+# filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"  
 # filename = "ObjectiveProblems/2010-2025_Chemistry_MCQs.json"  
 # filename = "ObjectiveProblems/2010-2025_Biology_MCQs.json"  
 # filename = "ObjectiveProblems/2010-2025_Political_Science_MCQs.json"  
@@ -18,15 +18,24 @@ filename = "ObjectiveProblems/2010-2025_Physics_MCQs.json"
 # filename = "Fields\Commonsense_and_WorldKnowledge.json"  
 # filename = "Fields\Creative_and_Open-ended_Questions.json"  
 
-# 1. 读取原文件
-with open(filename, "r", encoding="utf-8") as f:
-    data = json.load(f)
+files=[
+    "Fields/Mathematical_Reasoning.json","Fields/Logical_Reasoning.json","Fields/Lang_Comp_and_Produc.json","Fields/Natural_Science.json",
+    "Fields/Sociocultural_Understanding.json","Fields/Data_and_StatisticalLiteracy.json","Fields/Commonsense_and_WorldKnowledge.json" ,
+    "Fields/Creative_and_Open-ended_Questions.json"
+    ]
 
-# 2. 重排 index
-for new_index, question in enumerate(data["questions"]):
-    print(new_index);
-    question["index"] = new_index
+for filename in files:
+    # 1. 读取原文件
+    with open(filename, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-# 3. 覆盖写回原文件
-with open(filename, "w", encoding="utf-8") as f:
-    json.dump(data, f, ensure_ascii=False, indent=4)
+    # 2. 重排 index
+    for new_index, question in enumerate(data["questions"]):
+        print(new_index, end=' ')
+        
+        question["index"] = new_index
+    print()
+
+    # 3. 覆盖写回原文件
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
